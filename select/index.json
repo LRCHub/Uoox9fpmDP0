@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Duvet",
+  "base_artist": "bôa",
+  "createdAt": "2026-04-02T07:36:18.481337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Duke Duvet",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/01_Duke_Duvet_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "Boa",
+      "has_synced": true,
+      "path": "select/02_Duvet_Boa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "Bôa",
+      "has_synced": true,
+      "path": "select/03_Duvet_Bôa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/04_Duvet_BoA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Duvet (acoustic)",
+      "artist": "BOA",
+      "has_synced": true,
+      "path": "select/05_Duvet_(acoustic)_BOA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "Astro-Physics",
+      "has_synced": false,
+      "path": "select/06_Duvet_Astro-Physics.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Duvet (Acoustic)",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/07_Duvet_(Acoustic)_bôa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Duvet - ScummV Remix",
+      "artist": "bôa feat. ScummV",
+      "has_synced": false,
+      "path": "select/08_Duvet_-_ScummV_Remix_bôa_feat._ScummV.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "Bôa",
+      "has_synced": true,
+      "path": "select/09_Duvet_Bôa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/10_Duvet_bôa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DUVET",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/11_DUVET_bôa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/12_Duvet_bôa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Duvet",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/13_Duvet_bôa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "duvet interlude",
+      "artist": "kamal.",
+      "has_synced": true,
+      "path": "select/14_duvet_interlude_kamal..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Duvet (ScummV Remix)",
+      "artist": "bôa",
+      "has_synced": true,
+      "path": "select/15_Duvet_(ScummV_Remix)_bôa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Plush Duvet",
+      "artist": "Eric Bellinger",
+      "has_synced": false,
+      "path": "select/16_Plush_Duvet_Eric_Bellinger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Duvet",
+      "artist": "bôa",
+      "has_synced": false,
+      "path": "select/pl_01_Duvet_bôa.txt"
+    }
+  ]
+}
